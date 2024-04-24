@@ -1,0 +1,30 @@
+Gnarlroot
+--------------------------------------------------------
+|cffff7c0a>>HERO IN P2<<|r
+
+AOE: |cff0070ddAkaitaka|r, |cfff48cbaArtorius|r, |cfff48cbaXaxxon|r, |cfff48cbaTalon|r, 
+
+1. Intermission at 100 energy
+2. Prioritize |cffffff00Controlled Burn|r targets
+3. Lashers apply random stacking bleed
+
+{tank}Point boss at {star}
+{tank} Swap after each |cffffff00Dreadfire Barrage|r volley
+{healer} Focus |cffffff00Controlled Burn|r targets
+{p1}--------------------
+|cff00ff00<Phase 1>|r 0-100 Energy
+ -Activate Lashers w/|cffffff00Controlled Burn|r
+
+{time:0:28}|cffc41e3aShadopart|r {spell:145629}
+{time:1:15}|cffc41e3aZelegith|r {spell:145629}
+
+|cff00ff00<Phase 2>|r
+ -Soak |cffffff00Splintering Charcoal|r
+ -Deal with remaining Lashers
+ -Spread fire to Doom Roots
+ -DoT refreshes if all stacks aren't used
+ -20sec boss stun + dmg amp (hold 3min CD's)
+
+{p:Xarric,Akaitaka,Bendra,Raejiira,Gnomiegusta}--------------------
+RL Notes:
+{/p}
