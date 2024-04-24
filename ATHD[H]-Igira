@@ -1,0 +1,25 @@
+Igira
+--------------------------------------------------------
+|cffff7c0a>>HERO ON PULL<<|r
+
+1. Axe > Sword > Dagger
+2. Group spears behind boss, leave room for melee
+3. {skull} stack point behind boss
+
+{square}|cff00ff00<Axe>|r Groups 1/3
+ |cffffff00Umbral Destruction|r (Tank soak)
+ -Melee > Soak 1
+ -Ranged > Soak 2
+
+{triangle}|cff00ff00<Sword>|r Groups 2/4
+ |cffffff00Smashing Viscera|r (Leap)
+ -|cff8788eeVelasca|r + |cff0070ddAkaitaka|r bait
+
+{diamond}|cff00ff00<Dagger>|r Groups 5/6
+ |cffffff00Heart Stopper|r (Absorb)
+ -Spread, debuff explodes when removed
+
+{p:Xarric,Akaitaka,Bendra,Raejiira,Gnomiegusta}--------------------
+RL Notes:
+
+{/p}
