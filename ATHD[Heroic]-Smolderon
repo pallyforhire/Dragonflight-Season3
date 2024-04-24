@@ -1,0 +1,25 @@
+Smolderon
+--------------------------------------------------------
+|cffff7c0a>>HERO at 1:10<<|r
+
+1. Bait |cffffff00Lava Geysers|r counter-clockwise
+2. Tanks will get targeted with mechanics
+
+{time:1:10} Heroism
+|cff00ff00<Phase 1>|r
+-Move |cffffff00Overheated|r bombs CW
+-Move |cffffff00Cauterizing Wounds|r CCW
+-Bait |cffffff00Lava Geysers|r 
+{tank}move boss after |cffffff00Lava Geysers|r
+{tank}swap after soak, run bomb to center
+
+
+|cff00ff00<Intermission>|r @100 energy
+-Knockback > collect orbs
+
+
+{p:Xarric,Akaitaka,Bendra,Raejiira,Gnomiegusta}--------------------
+RL Notes:
+CW - Clockwise
+CCW - Counter-clockwise
+{/p}
